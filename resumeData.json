@@ -3,7 +3,7 @@
     "name":"Puyu Li",
     "description":"Passionate about learning technology and sharing knowledge",
     "image":"profile.jpg",
-    "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
+    "bio":"My name is Puyu Li and I graduated from Master of Information Technology at the University of Melbourne in December 2022. I've been studying Computer Science and Technology since I was an undergraduate and have been studying IT for 6 years now. I'm ready to start my career phase and am passionate enough to see you at work in the future! ",
     "contactmessage":"Thank you for your feedback.",
     "email": "puyuli0630@gmail.com",
     "phone": "(04) 0482 4556",
@@ -14,43 +14,18 @@
       "line2":"City: Melbourne",
       "line3":"Country: Australia"
     },
-    "youtube":{
-      "english": {
-        "name": "David on Cloud",
-        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
-      },
-      "chinese": {
-        "name": "澳洲程序员大卫",
-        "url":"https://www.youtube.com/@aus-david"
-      }
-    },
-    "website": "http://cyberlark.com.au",
+    "website": "https://lpy5618.github.io/MyDigitalCV/",
     "resumedownload":"./images/resume.pdf",
     "social":[
-      {
-        "name":"twitter",
-        "url":"https://twitter.com/daiwei920",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"github",
         "url":"https://github.com/lpy5618/",
         "className":"fa fa-github"
       },
       {
-        "name":"youtube-chinese",
-        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
-        "className":"fa fa-youtube-square"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com",
         "className":"fa fa-linkedin-square"
-      },
-      {
-        "name":"toutiao",
-        "url":"https://www.ixigua.com/home/1521358670931997/",
-        "className":"fa fa-weibo"
       }
     ]
   },
@@ -72,24 +47,24 @@
     ],
     "work":[
       {
-        "company":"Cyberlark Studio",
-        "title":"Founder",
-        "years":"Augest 2005 - Present",
-        "description":"Our website was founded in August 2005, originally named D&M Studio. "
+        "company":"Nanning Beibu Gulf Talent Golden Port Co., Ltd",
+        "title":"IT assistant",
+        "years":"Jul 2020 - Nov 2020",
+        "description":"Operated and maintained the company's computers, configured the system, and installed software. Identified and resolved computer hardware problems and assembled new computers"
       }
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
-        "level":"95%"
+        "name":"Backend Development (Python, Java, Database)",
+        "level":"75%"
       },
       {
-        "name":"Frontend Development (React, Angular)",
-        "level":"85%"
+        "name":"Frontend Development (React)",
+        "level":"60%"
       },
       {
-        "name":"Embeded Software development (C/C++)",
-        "level":"80%"
+        "name":"Artificial Intelligence (Computer Vision)",
+        "level":"70%"
       },
       {
         "name":"Leadership & Management",
