@@ -21,9 +21,9 @@ class Footer extends Component {
           <Fade bottom>
             <div className="twelve columns">
               <ul className="social-links">{networks}</ul>
-              <ul className="copyright">
+              {/* <ul className="copyright">
                 <li>&copy; Copyright 2022 Cyberlark.com.au</li>
-              </ul>
+              </ul> */}
             </div>
           </Fade>
 
