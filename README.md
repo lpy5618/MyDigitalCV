@@ -1,5 +1,4 @@
-# Cyberlark David Resume Template
-![Status](https://github.com/David-Cyberlark/PersonalCV/actions/workflows/build.yml/badge.svg)
+# My Digital CV
 
 # Run Project
 ### 1. Clone the project
