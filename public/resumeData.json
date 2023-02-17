@@ -1,17 +1,17 @@
 {
   "main": {
-    "name":"David Cyberlark",
+    "name":"Puyu Li",
     "description":"Passionate about learning technology and sharing knowledge",
     "image":"profile.jpg",
     "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
     "contactmessage":"Thank you for your feedback.",
-    "email": "Dave@cyberlark.com.au",
-    "phone": "(04) 1234 5678",
-    "github":"https://github.com/CyberlarkCode",
-    "project":"https://github.com/CyberlarkCode",
+    "email": "puyuli0630@gmail.com",
+    "phone": "(04) 0482 4556",
+    "github":"https://github.com/lpy5618/",
+    "project":"https://github.com/lpy5618/",
     "address":{
-      "line1":"Address: 13 Main St",
-      "line2":"City: Brisbane",
+      "line1":"Address: 56 Dorcas St",
+      "line2":"City: Melbourne",
       "line3":"Country: Australia"
     },
     "youtube":{
@@ -34,7 +34,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/CyberlarkCode",
+        "url":"https://github.com/lpy5618/",
         "className":"fa fa-github"
       },
       {
@@ -58,15 +58,15 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
-        "degree":"Master of Computer Science with distinction",
-        "graduated":"2007 - 2009",
-        "description":""
+        "school":"University of Melbourne",
+        "degree":"Master of Information Technology",
+        "graduated":"2021.03-2022.12",
+        "description":"Specialisation: Artificial Intelligence"
       },
       {
-        "school":"AWS certification",
-        "degree":"AWS Certified Solutions Architect - Professional",
-        "graduated":"Dec 2021",
+        "school":"Guangxi University",
+        "degree":"Bachlor of Computer Science and Technology",
+        "graduated":"2016.09-2020.06",
         "description":""
       }
     ],
